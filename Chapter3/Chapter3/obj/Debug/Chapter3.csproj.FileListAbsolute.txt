@@ -1,0 +1,7 @@
+D:\כיתה יא - C#\Chapter3\Chapter3\bin\Debug\Chapter3.exe.config
+D:\כיתה יא - C#\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+D:\כיתה יא - C#\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
+D:\כיתה יא - C#\Chapter3\Chapter3\obj\Debug\Chapter3.csproj.AssemblyReference.cache
+D:\כיתה יא - C#\Chapter3\Chapter3\obj\Debug\Chapter3.csproj.CoreCompileInputs.cache
+D:\כיתה יא - C#\Chapter3\Chapter3\obj\Debug\Chapter3.exe
+D:\כיתה יא - C#\Chapter3\Chapter3\obj\Debug\Chapter3.pdb
